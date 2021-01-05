@@ -1,4 +1,4 @@
-![Banner](https://github.com/hamxam1/hamxam1/blob/master/HamzaMustafa.png)
+![Banner](https://github.com/hamxam1/hamxam1/hamza.jpg)
 
 <!-- visitor counter -->
 <p align="center"> 
