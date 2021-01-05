@@ -32,9 +32,9 @@ I'm Hamza Mustafa. I'm a graduated student  🎓 from University of Lahore 🏛.
 <p align="left">
 
 
-<a href="https://linkedin.com/in/hamzamustafa7943" target="blank"><img align="center" src="https://github.com//hamxam1/blob/master/assets/linkedin.svg" alt="hamxam1" height="30" width="30" /></a>
-<a href="https://fb.com/aoraja" target="blank"><img align="center" src="https://github.com/hamxam1/hamxam1/blob/master/assets/facebook.svg" alt="hamxam1" height="30" width="30" /></a>
-<a href="https://instagram.com/hamxam1" target="blank"><img align="center" src="https://github.com/hamxam1/hamxam1/blob/master/assets/instagram.svg" alt="hamxam1" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/hamzamustafa7943" target="blank"><img align="center" src="https://github.com//hamxam1/assets/linkedin.svg" alt="hamxam1" height="30" width="30" /></a>
+<a href="https://fb.com/aoraja" target="blank"><img align="center" src="https://github.com/hamxam1/hamxam1/assets/facebook.svg" alt="hamxam1" height="30" width="30" /></a>
+<a href="https://instagram.com/hamxam1" target="blank"><img align="center" src="https://github.com/hamxam1/hamxam1/assets/instagram.svg" alt="hamxam1" height="30" width="30" /></a>
 
 </p>
 
