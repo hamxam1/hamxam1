@@ -1,4 +1,4 @@
-![Banner](https://github.com/hamxam1/hamxam1/hamza.jpg)
+<img src="https://i.ibb.co/CVqQv0Q/hamza.jpg" alt="hamza" border="0">
 
 <!-- visitor counter -->
 <p align="center"> 
@@ -32,9 +32,9 @@ I'm Hamza Mustafa. I'm a graduated student  🎓 from University of Lahore 🏛.
 <p align="left">
 
 
-<a href="https://linkedin.com/in/hamzamustafa7943" target="blank"><img align="center" src="https://github.com//hamxam1/assets/linkedin.svg" alt="hamxam1" height="30" width="30" /></a>
-<a href="https://fb.com/aoraja" target="blank"><img align="center" src="https://github.com/hamxam1/hamxam1/assets/facebook.svg" alt="hamxam1" height="30" width="30" /></a>
-<a href="https://instagram.com/hamxam1" target="blank"><img align="center" src="https://github.com/hamxam1/hamxam1/tree/main/assets/assets/instagram.svg" alt="hamxam1" height="30" width="30" /></a>
+<a href="https://fb.com/aoraja" target="blank"><img src="https://i.ibb.co/ZGqy4mr/fb.png" alt="fb" border="0"></a></a>
+<a href="https://linkden.com/in/hamzamustafa7943" target="blank"><img src="https://i.ibb.co/x61L9PR/ln.png" alt="ln" border="0"></a></a>
+<a href="https://instagram.com/hamxam1" target="blank"><img src="https://i.ibb.co/TRQLv5M/insta.png" alt="insta" border="0"></a></a>
 
 </p>
 
